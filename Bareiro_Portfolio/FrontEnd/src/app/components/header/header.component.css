@@ -1,0 +1,13 @@
+div{
+    background-color:aqua;
+}
+
+app-redes-sociales{
+    float: right;
+    margin-top: 25px;
+}
+img {
+    height: 100%;
+    width: 100%;
+    object-fit:scale-down;
+   }

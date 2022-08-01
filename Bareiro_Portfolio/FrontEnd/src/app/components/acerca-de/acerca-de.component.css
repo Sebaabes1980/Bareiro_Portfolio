@@ -1,0 +1,14 @@
+.row{
+    padding: 20px;
+}
+img{
+    padding-left: 40px;
+}
+div{
+    background-color: rgb(172, 197, 197);
+    text-align:justify;
+}
+h1, h2, h3{
+    font: bold;
+    text-align: center;
+}
